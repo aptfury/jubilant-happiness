@@ -1,0 +1,7 @@
+2024/11/12-00:07:14.189 11c4 Recovering log #38
+2024/11/12-00:07:14.285 11c4 Delete type=0 #38
+2024/11/12-00:07:14.285 11c4 Delete type=3 #36
+2024/11/12-00:14:55.682 3524 Level-0 table #43: started
+2024/11/12-00:14:55.682 3524 Level-0 table #43: 0 bytes OK
+2024/11/12-00:14:55.731 3524 Delete type=0 #41
+2024/11/12-00:14:55.882 3524 Manual compaction at level-0 from '!actors!ddbSumArcaHanRed' @ 72057594037927935 : 1 .. '!folders!tpJYWsGhz9VaonRw' @ 0 : 0; will stop at (end)

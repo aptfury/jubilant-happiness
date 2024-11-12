@@ -1,0 +1,7 @@
+2024/11/12-00:07:12.947 42cc Recovering log #40
+2024/11/12-00:07:13.043 42cc Delete type=0 #40
+2024/11/12-00:07:13.044 42cc Delete type=3 #38
+2024/11/12-00:15:01.724 3524 Level-0 table #45: started
+2024/11/12-00:15:01.724 3524 Level-0 table #45: 0 bytes OK
+2024/11/12-00:15:01.806 3524 Delete type=0 #43
+2024/11/12-00:15:01.872 3524 Manual compaction at level-0 from '!users!DZ0KpCWzHa6wcrDN' @ 72057594037927935 : 1 .. '!users!aP9jAzUrEmagPtRY' @ 0 : 0; will stop at (end)

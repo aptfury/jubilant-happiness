@@ -1,0 +1,7 @@
+2024/11/12-00:07:11.716 42cc Recovering log #38
+2024/11/12-00:07:11.811 42cc Delete type=0 #38
+2024/11/12-00:07:11.811 42cc Delete type=3 #36
+2024/11/12-00:15:00.689 3524 Level-0 table #43: started
+2024/11/12-00:15:00.689 3524 Level-0 table #43: 0 bytes OK
+2024/11/12-00:15:00.730 3524 Delete type=0 #41
+2024/11/12-00:15:00.730 3524 Manual compaction at level-0 from '!messages!7t7seTQjglojiMhV' @ 72057594037927935 : 1 .. '!messages!zr0JmXeg8buo2AkZ' @ 0 : 0; will stop at (end)
